@@ -14,9 +14,9 @@ Acest proiect conține implementarea a trei metode de rezolvare a problemelor SA
 - `clauses1.txt`: fișier de intrare (clauze în format CNF, câte o linie per clauză)
 
 - FISIERUL 'clauses1.txt' trebuie sa fie de forma:
--`1 -3 4`
--`-1 2`
--`3`
+`1 -3 4`
+`-1 2`
+`3`
 
 
 
